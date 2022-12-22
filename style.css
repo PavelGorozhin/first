@@ -1,0 +1,21 @@
+.wrap {
+    display: flex;
+    flex-direction: row;
+}
+
+.col {
+    width: 400px;
+    height: 200px;
+    /*margin: 0 auto;*/
+    border: solid 1px black;
+    margin-right: 40px;
+    border-radius: 25px;
+}
+
+.col2 {
+    width: 400px;
+    height: 200px;
+    /*margin: 0 auto;*/
+    border: solid 1px black;
+    border-radius: 25px;
+}
